@@ -1,0 +1,1 @@
+Azért tanuljunk nyelveket, mert a nyelv az egyetlen, amit rosszul is érdemes tudni.

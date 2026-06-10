@@ -65,14 +65,30 @@
             "id": "fee9c67a5440c4d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lomb Kató.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lomb Kató"
+            }
+          },
+          {
+            "id": "5bc2741832dc09a7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -220,8 +236,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "fee9c67a5440c4d1",
+  "active": "5bc2741832dc09a7",
   "lastOpenFiles": [
+    "Lomb Kató.md",
     "vocabulaire.md",
     "suffixes.md",
     "Conjugaisons.md",
