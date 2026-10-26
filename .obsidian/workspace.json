@@ -74,21 +74,9 @@
               "icon": "lucide-file",
               "title": "Lomb Kató"
             }
-          },
-          {
-            "id": "5bc2741832dc09a7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,7 +224,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5bc2741832dc09a7",
+  "active": "fee9c67a5440c4d1",
   "lastOpenFiles": [
     "Lomb Kató.md",
     "vocabulaire.md",
